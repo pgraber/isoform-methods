@@ -1,0 +1,17 @@
+# No data in this repository.
+data/
+results/
+figures/
+*.rds
+*.h5
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+renv/library/
+
+# OS and editor
+.DS_Store
+.vscode/
